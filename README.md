@@ -1,6 +1,5 @@
 - 👋 Hi, I’m mohamed majilan & I'full stack Developer (Typescript, React, GraphQl, Node, MongoDB) 
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning TypeScript with React & Next.js
 - 💞️ I’m looking for a job, Contact me to see what i can do for you
 - 📫 How to reach me => email : mohamedmajilan@gmail.com
 
