@@ -1,4 +1,4 @@
-- 👋 Hi, I’m mohamed majilan & I'full stack Developer (Typescript, React, GraphQl, Node, MongoDB) 
+- 👋 Hi, I’m mohamed majilan & I'full stack Developer (Typescript, React, Graph QL, Node, MongoDB) 
 - 👀 I’m interested in Web development 
 - 💞️ Contact me to see what i can do for you
 - 📫 How to reach me => email : mohamedmajilan@gmail.com
